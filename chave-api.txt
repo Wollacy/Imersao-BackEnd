@@ -1,2 +1,8 @@
 Api Key Gemini
 AIzaSyCv_5q_uMpZ_zf9TVdFZDnZtFJLILgNO68
+
+Usuário e Senha MongoDB
+wollacy
+lG6l9F3fjsFXCRSq
+
+mongodb://wollacy:<db_password>@<hostname>/?ssl=true&replicaSet=atlas-zhttjp-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
