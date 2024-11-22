@@ -1,8 +1,0 @@
-Api Key Gemini
-AIzaSyCv_5q_uMpZ_zf9TVdFZDnZtFJLILgNO68
-
-Usuário e Senha MongoDB
-wollacy
-mKsxEBEqO2PVEdVH
-
-mongodb+srv://wollacy:mKsxEBEqO2PVEdVH@cluster0.cspwm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
